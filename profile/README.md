@@ -7,4 +7,4 @@ Chat over the growing Matrix network or [bridge](https://etke.cc/help/bridges/) 
 **23** Additional Matrix and [non-Matrix](https://etke.cc/help/extras/) services,
 **500+** Matrix servers installed.
 
-### [Get Started](https://etke.cc/order)
+### [🚀 Get Started](https://etke.cc/order) || [💝 Sponsor Open Source](https://liberapay.com/etkecc)
